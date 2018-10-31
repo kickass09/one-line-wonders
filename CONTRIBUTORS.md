@@ -178,6 +178,11 @@ Place: Brazil</br>
 Coding Experience: C, Java, Python</br>
 Email: rather not :)</br>
 
+Name: [Shaun Ritty](https://github.com/kickass09)</br>
+Place: India</br>
+Coding Experience: C, Java, Python</br>
+Email: rather not :)</br> 
+
 Name: [Kyle Hu](https://github.com/falafel72)</br>
 Place: CA, USA (Hong Kong originally)</br>
 Coding Experience: C/C++, Python, Java, Javascript</br>
